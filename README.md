@@ -36,5 +36,5 @@ Neste terceiro projeto, recebi novamente os arquivos **HTML** e **CSS**, onde pu
 ✅ Aprimorar conhecimentos em **HTML, CSS e JavaScript**  
 ✅ Praticar manipulação de valores e conversões monetárias  
 ✅ Criar uma interface personalizada e interativa  
-✅ Implementar JavaScript utilizando **IF e While** para lógica de decisão  
-✅ Desenvolver um jogo funcional e intuitivo  
+✅ Implementar JavaScript utilizando **IF/Else e While** para lógica de decisão  
+✅ Desenvolver 5 jogo funcionais e intuitivos  
