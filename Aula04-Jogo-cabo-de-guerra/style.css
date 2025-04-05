@@ -1,0 +1,60 @@
+body {
+    background: url("https://ingresso-a.akamaihd.net/b2b/production/uploads/article/image/330/imagem-pre-venda-ingressos-sessao-especial-3d-harry-potter-e-a-pedra-filosofal-20-anos.jpg") no-repeat center
+      center fixed;
+    background-size: cover;
+    font-family: "Gabarito", sans-serif;
+    margin: 20px;
+  }
+  
+  .body {
+    margin-top: 15%;
+  }
+  
+  .logo {
+    text-align: end;
+  }
+  
+  .logo img {
+    width: 20%;
+  }
+  
+  /* Caixa principal do jogo */
+  .conteudo-jogo {
+    background: rgba(0, 0, 0, 0.7);
+    box-shadow: 0 0 5px #ff1b7b;
+    margin: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+  }
+  
+  .conteudo-jogo:hover {
+    background: rgba(0, 0, 0);
+    box-shadow: 0 0 5px #19caca;
+  }
+  
+  /* Títulos e textos */
+  h2,
+  p {
+    color: white;
+  }
+  
+  button {
+    border: none;
+    background: #ff1b7b;
+    color: white;
+    cursor: pointer;
+    transition: background 0.3s;
+    display: block;
+    margin: 20px auto;
+    padding: 20px 40px;
+    border-radius: 10px;
+      
+  }
+  
+  button:hover {
+    background: #19caca;
+  }
+  
+  
