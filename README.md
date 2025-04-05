@@ -25,6 +25,10 @@ Neste terceiro projeto, recebi novamente os arquivos **HTML** e **CSS**, onde pu
 
 - [Projeto no CodePen](https://codepen.io/Franklin-B-Oliveira/pen/xbxMqba) 
 
+### Aula 4: Escolha de Time
+
+Neste quarto projeto, recebi novamente os arquivos **HTML** e **CSS**, onde pode escolher um **tema**, uma **imagem de fundo**, e desenvolvi a lógica do jogo utilizando agora **estrutura condicional For**.
+
 ## Tecnologias Utilizadas
 
 - **HTML5**  
@@ -37,5 +41,5 @@ Neste terceiro projeto, recebi novamente os arquivos **HTML** e **CSS**, onde pu
 ✅ Aprimorar conhecimentos em **HTML, CSS e JavaScript**  
 ✅ Praticar manipulação de valores e conversões monetárias  
 ✅ Criar uma interface personalizada e interativa  
-✅ Implementar JavaScript utilizando **IF/Else e While** para lógica de decisão  
+✅ Implementar JavaScript utilizando **IF/Else, While e For** para lógica de decisão  
 ✅ Desenvolver 5 jogo funcionais e intuitivos  
