@@ -1,9 +1,8 @@
 <h1 align="center">
-  Imersão Dev 9º edição - Alura 2025 
+  Imersão Dev - Alura 2025 
 </h1>
 
 Repositório para a **Imersão DEV 9° Edição** da Alura, onde mergulhei nos conceitos de lógica de programação, Javascript, HTML e CSS enquanto desenvolve cinco jogos na prática.
-
 
 ## Projetos
 
@@ -25,9 +24,11 @@ Neste terceiro projeto, recebi novamente os arquivos **HTML** e **CSS**, onde pu
 
 - [Projeto no CodePen](https://codepen.io/Franklin-B-Oliveira/pen/xbxMqba) 
 
-### Aula 4: Escolha de Time
+### Aula 4: Cabo de Guerra
 
-Neste quarto projeto, recebi novamente os arquivos **HTML** e **CSS**, onde pode escolher um **tema**, uma **imagem de fundo**, e desenvolvi a lógica do jogo utilizando agora **estrutura condicional For**.
+Neste quarto projeto, recebi novamente os arquivos **HTML** e **CSS**, onde pode escolher um **tema**, uma **imagem de fundo**, e desenvolvi a lógica do jogo utilizando agora **estrutura condicional For**. O objetivo do projeto foi criar um jogo onde o usuário escolher três personagems e o PC escolher outros três para ver quem são mais fortes, um cabo de guerra.
+
+- [Projeto no CodePen](https://codepen.io/Franklin-B-Oliveira/pen/ZYEPxBG) 
 
 ## Tecnologias Utilizadas
 
@@ -41,5 +42,5 @@ Neste quarto projeto, recebi novamente os arquivos **HTML** e **CSS**, onde pode
 ✅ Aprimorar conhecimentos em **HTML, CSS e JavaScript**  
 ✅ Praticar manipulação de valores e conversões monetárias  
 ✅ Criar uma interface personalizada e interativa  
-✅ Implementar JavaScript utilizando **IF/Else, While e For** para lógica de decisão  
+✅ Implementar JavaScript utilizando **If/Else, While, do While e For** para lógica de decisão  
 ✅ Desenvolver 5 jogo funcionais e intuitivos  
