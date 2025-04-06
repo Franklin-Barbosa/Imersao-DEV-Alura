@@ -1,5 +1,5 @@
 <h1 align="center">
-  Imersão Dev - Alura 2025 
+  Imersão Dev 9ª edição
 </h1>
 
 Repositório para a **Imersão DEV 9° Edição** da Alura, onde mergulhei nos conceitos de lógica de programação, Javascript, HTML e CSS enquanto desenvolve cinco jogos na prática.
@@ -30,6 +30,11 @@ Neste quarto projeto, recebi novamente os arquivos **HTML** e **CSS**, onde pode
 
 - [Projeto no CodePen](https://codepen.io/Franklin-B-Oliveira/pen/ZYEPxBG) 
 
+### Aula 5: Quiz
+Neste quinto e último projeto, recebi os arquivos **HTML** e **CSS**, onde pode escolher um **tema**, uma **imagem de fundo**, e **modificar tanto o HTML quanto o CSS** para se encaixar melhor no projeto. O objetivo do projero foi criar um Quiz de perguntas e respostas com verificações de certos e errados, e uma atribuição de pontuação para cara acerto.
+
+- [Projeto no CodePen](https://codepen.io/Franklin-B-Oliveira/pen/XJWGqpV) 
+
 ## Tecnologias Utilizadas
 
 - **HTML5**  
@@ -37,10 +42,10 @@ Neste quarto projeto, recebi novamente os arquivos **HTML** e **CSS**, onde pode
 - **JavaScript**  
 - **[CodePen](https://codepen.io/)**
 
-## Objetivos
+## Objetivos da Imersão
 
 ✅ Aprimorar conhecimentos em **HTML, CSS e JavaScript**  
 ✅ Praticar manipulação de valores e conversões monetárias  
-✅ Criar uma interface personalizada e interativa  
-✅ Implementar JavaScript utilizando **If/Else, While, do While e For** para lógica de decisão  
+✅ Criar interfaces personalizadas e interativas  
+✅ Implementar JavaScript utilizando **If/Else, While, do While** e **For** para lógica de decisão  
 ✅ Desenvolver 5 jogo funcionais e intuitivos  
